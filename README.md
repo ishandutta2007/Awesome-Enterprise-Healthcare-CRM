@@ -69,123 +69,123 @@ The table below catalogs premier commercial SaaS Healthcare CRM platforms. Entri
 
 The following repositories provide open-source codebases for patient relationship management, clinical coordination, EHR/EMR platforms, and hospital information systems. 
 
-Entries are sorted in **descending order by GitHub star count**. Each repository badge links directly to its live stargazers page.
+Entries are sorted in **descending order by GitHub Stars_Count**. Each repository badge links directly to its live stargazers page.
 
 ---
 
-### 1. [Twenty CRM](https://github.com/twentyhq/twenty) [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+### 1. [Twenty CRM](https://github.com/twentyhq/twenty) [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
 - **License:** AGPL-3.0
 - **Tech Stack:** TypeScript, React, NestJS, PostgreSQL, GraphQL
 - **Healthcare Capabilities:** Modern CRM featuring custom data models easily structured for patient, provider, and care-team relationships. Includes an integrated AI assistant for natural language CRM queries, auto-generated REST/GraphQL APIs, role-based access control, and self-hosted Docker deployments suitable for custom HIPAA architectures.
 
 ---
 
-### 2. [HospitalRun Frontend](https://github.com/HospitalRun/hospitalrun-frontend) [![GitHub stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun-frontend?style=social&color=white)](https://github.com/HospitalRun/hospitalrun-frontend/stargazers)
+### 2. [HospitalRun Frontend](https://github.com/HospitalRun/hospitalrun-frontend) [![GitHub_Stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun-frontend?style=social&color=white)](https://github.com/HospitalRun/hospitalrun-frontend/stargazers)
 - **License:** MIT
 - **Tech Stack:** TypeScript, React, Redux, Node.js
 - **Healthcare Capabilities:** Modern, offline-first hospital management and patient relationship interface designed for rural and low-resource healthcare facilities. Features intuitive patient registration, appointment scheduling, medication tracking, laboratory requests, and clinical workflow coordination.
 
 ---
 
-### 3. [SuiteCRM](https://github.com/salesagility/SuiteCRM) [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
+### 3. [SuiteCRM](https://github.com/salesagility/SuiteCRM) [![GitHub_Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
 - **License:** AGPL-3.0
 - **Tech Stack:** PHP, Symfony, MariaDB / MySQL, JavaScript
 - **Healthcare Capabilities:** Enterprise-grade CRM adaptable for hospitals and clinic networks. Custom healthcare modules support patient intake, referral tracking, prior authorization workflows, chronic condition care management, automated appointment reminders (SMS/Email), and demographic segmentation. Enterprise SuiteASSURED tier offers compliance warranties.
 
 ---
 
-### 4. [OpenEMR](https://github.com/openemr/openemr) [![GitHub stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)
+### 4. [OpenEMR](https://github.com/openemr/openemr) [![GitHub_Stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)
 - **License:** GPL-3.0
 - **Tech Stack:** PHP, MySQL, JavaScript, Docker
 - **Healthcare Capabilities:** ONC-certified electronic health record and medical practice management platform. Includes a comprehensive patient portal for direct messaging, appointments, and lab results, paired with FHIR API integration, telehealth modules, e-prescribing, and medical billing capabilities.
 
 ---
 
-### 5. [Fasten Health](https://github.com/fastenhealth/fasten-onprem) [![GitHub stars](https://img.shields.io/github/stars/fastenhealth/fasten-onprem?style=social&color=white)](https://github.com/fastenhealth/fasten-onprem/stargazers)
+### 5. [Fasten Health](https://github.com/fastenhealth/fasten-onprem) [![GitHub_Stars](https://img.shields.io/github/stars/fastenhealth/fasten-onprem?style=social&color=white)](https://github.com/fastenhealth/fasten-onprem/stargazers)
 - **License:** AGPL-3.0
 - **Tech Stack:** Go (Golang), Vue.js, SQLite / PostgreSQL, Docker
 - **Healthcare Capabilities:** Self-hosted personal electronic health record and patient data aggregator. Connects with thousands of healthcare institutions via FHIR APIs to consolidate longitudinal patient charts, immunizations, vitals, appointments, and diagnoses into a single private database.
 
 ---
 
-### 6. [Medplum](https://github.com/medplum/medplum) [![GitHub stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers)
+### 6. [Medplum](https://github.com/medplum/medplum) [![GitHub_Stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers)
 - **License:** Apache-2.0
 - **Tech Stack:** TypeScript, React, Node.js, PostgreSQL, FHIR R4
 - **Healthcare Capabilities:** Headless healthcare platform and developer toolkit that combines a compliant FHIR datastore, patient portal, CRM capabilities, automated bot workflows, and scheduling. Built natively around HL7 FHIR standards for rapid creation of modern patient applications.
 
 ---
 
-### 7. [OpenMRS Core](https://github.com/openmrs/openmrs-core) [![GitHub stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)
+### 7. [OpenMRS Core](https://github.com/openmrs/openmrs-core) [![GitHub_Stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)
 - **License:** MPL-2.0
 - **Tech Stack:** Java, Spring, Hibernate, MySQL
 - **Healthcare Capabilities:** Globally recognized open-source enterprise electronic medical record platform. Manages longitudinal patient relationships, clinic encounters, cohort tracking, and clinical observation workflows across resource-constrained healthcare environments worldwide.
 
 ---
 
-### 8. [HospitalRun Core](https://github.com/HospitalRun/hospitalrun) [![GitHub stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun?style=social&color=white)](https://github.com/HospitalRun/hospitalrun/stargazers)
+### 8. [HospitalRun Core](https://github.com/HospitalRun/hospitalrun) [![GitHub_Stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun?style=social&color=white)](https://github.com/HospitalRun/hospitalrun/stargazers)
 - **License:** MIT
 - **Tech Stack:** JavaScript, Ember.js, PouchDB, CouchDB
 - **Healthcare Capabilities:** The core backend and offline-first data synchronization engine for HospitalRun. Provides local-first database replication, discharge management, inventory tracking, and outpatient clinical relationship records.
 
 ---
 
-### 9. [OpenBoxes](https://github.com/openboxes/openboxes) [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)
+### 9. [OpenBoxes](https://github.com/openboxes/openboxes) [![GitHub_Stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)
 - **License:** EPL-1.0
 - **Tech Stack:** Groovy, Grails, Java, MySQL
 - **Healthcare Capabilities:** Open-source supply chain and medical inventory management system for health systems. Tracks pharmaceuticals, medical equipment, and consumable distributions across clinics, integrating with patient demand forecasting systems.
 
 ---
 
-### 10. [Frappe Health / Marley](https://github.com/earthians/marley) [![GitHub stars](https://img.shields.io/github/stars/earthians/marley?style=social&color=white)](https://github.com/earthians/marley/stargazers)
+### 10. [Frappe Health / Marley](https://github.com/earthians/marley) [![GitHub_Stars](https://img.shields.io/github/stars/earthians/marley?style=social&color=white)](https://github.com/earthians/marley/stargazers)
 - **License:** GPL-3.0
 - **Tech Stack:** Python, Frappe Framework, MariaDB, Vue.js / JavaScript
 - **Healthcare Capabilities:** Comprehensive healthcare and patient management module built on the Frappe/ERPNext ecosystem. Handles patient appointment booking, practitioner schedules, clinical encounter logs, vital signs tracking, lab test investigations, and billing synchronization.
 
 ---
 
-### 11. [DHIS2 Core](https://github.com/dhis2/dhis2-core) [![GitHub stars](https://img.shields.io/github/stars/dhis2/dhis2-core?style=social&color=white)](https://github.com/dhis2/dhis2-core/stargazers)
+### 11. [DHIS2 Core](https://github.com/dhis2/dhis2-core) [![GitHub_Stars](https://img.shields.io/github/stars/dhis2/dhis2-core?style=social&color=white)](https://github.com/dhis2/dhis2-core/stargazers)
 - **License:** BSD-3-Clause
 - **Tech Stack:** Java, Spring Boot, PostgreSQL, Web API
 - **Healthcare Capabilities:** The world's leading open-source health information management system (HMIS), deployed in 100+ countries. Features the DHIS2 Tracker module for individual-level patient relationship tracking, disease surveillance, immunization follow-ups, and maternal health monitoring.
 
 ---
 
-### 12. [Customermates](https://github.com/customermates/customermates) [![GitHub stars](https://img.shields.io/github/stars/customermates/customermates?style=social&color=white)](https://github.com/customermates/customermates/stargazers)
+### 12. [Customermates](https://github.com/customermates/customermates) [![GitHub_Stars](https://img.shields.io/github/stars/customermates/customermates?style=social&color=white)](https://github.com/customermates/customermates/stargazers)
 - **License:** AGPL-3.0
 - **Tech Stack:** TypeScript, Next.js, Node.js, PostgreSQL, Docker
 - **Healthcare Capabilities:** Modern open-source CRM featuring native Model Context Protocol (MCP) support for AI agents. Enables LLM assistants (Claude, Cursor, ChatGPT) to perform appointment coordination, patient outreach, and contact updates through 50+ pre-built tool endpoints.
 
 ---
 
-### 13. [Bahmni Core](https://github.com/Bahmni/bahmni-core) [![GitHub stars](https://img.shields.io/github/stars/Bahmni/bahmni-core?style=social&color=white)](https://github.com/Bahmni/bahmni-core/stargazers)
+### 13. [Bahmni Core](https://github.com/Bahmni/bahmni-core) [![GitHub_Stars](https://img.shields.io/github/stars/Bahmni/bahmni-core?style=social&color=white)](https://github.com/Bahmni/bahmni-core/stargazers)
 - **License:** AGPL-3.0
 - **Tech Stack:** Java, Spring, OpenMRS, OpenELIS, Odoo
 - **Healthcare Capabilities:** Integrated hospital management system that combines OpenMRS for clinical patient charting, OpenELIS for laboratory management, and Odoo for patient billing and medical inventory into a unified clinical interface.
 
 ---
 
-### 14. [nowCRM](https://github.com/nowtec/nowcrm) [![GitHub stars](https://img.shields.io/github/stars/nowtec/nowcrm?style=social&color=white)](https://github.com/nowtec/nowcrm/stargazers)
+### 14. [nowCRM](https://github.com/nowtec/nowcrm) [![GitHub_Stars](https://img.shields.io/github/stars/nowtec/nowcrm?style=social&color=white)](https://github.com/nowtec/nowcrm/stargazers)
 - **License:** AGPL-3.0
 - **Tech Stack:** TypeScript, Node.js, PostgreSQL, Docker
 - **Healthcare Capabilities:** Privacy-centric open-source CRM created for non-profits and healthcare entities demanding complete data sovereignty. Features visual automated journey builders, multi-channel messaging (Email, SMS, WhatsApp), and GDPR-compliant record handling.
 
 ---
 
-### 15. [Helix](https://github.com/helix-medical/helix) [![GitHub stars](https://img.shields.io/github/stars/helix-medical/helix?style=social&color=white)](https://github.com/helix-medical/helix/stargazers)
+### 15. [Helix](https://github.com/helix-medical/helix) [![GitHub_Stars](https://img.shields.io/github/stars/helix-medical/helix?style=social&color=white)](https://github.com/helix-medical/helix/stargazers)
 - **License:** GPL-3.0
 - **Tech Stack:** PHP, Symfony, Docker, SQLite / MySQL
 - **Healthcare Capabilities:** Self-hosted patient management and scheduling system tailored for independent clinics, physical therapists, and osteopaths. Features calendar appointment booking, patient medical history tracking, billing generation, and GDPR-compliant local storage.
 
 ---
 
-### 16. [PatientCrm](https://github.com/dotnetappdev/PatientCrm) [![GitHub stars](https://img.shields.io/github/stars/dotnetappdev/PatientCrm?style=social&color=white)](https://github.com/dotnetappdev/PatientCrm/stargazers)
+### 16. [PatientCrm](https://github.com/dotnetappdev/PatientCrm) [![GitHub_Stars](https://img.shields.io/github/stars/dotnetappdev/PatientCrm?style=social&color=white)](https://github.com/dotnetappdev/PatientCrm/stargazers)
 - **License:** MIT
 - **Tech Stack:** C#, .NET 10, Blazor, ASP.NET Core, SQL Server
 - **Healthcare Capabilities:** Open-source patient CRM built for UK and European healthcare workflows (including NHS and HSCNI mock structures). Implements multi-role authentication (GP, Nurse, Dentist, Receptionist), passkey FIDO2 security, 2FA via TOTP, and OpenAPI/Swagger documentation.
 
 ---
 
-### 17. [OpenHealthCRM](https://github.com/pras75299/OpenHealthCRM) [![GitHub stars](https://img.shields.io/github/stars/pras75299/OpenHealthCRM?style=social&color=white)](https://github.com/pras75299/OpenHealthCRM/stargazers)
+### 17. [OpenHealthCRM](https://github.com/pras75299/OpenHealthCRM) [![GitHub_Stars](https://img.shields.io/github/stars/pras75299/OpenHealthCRM?style=social&color=white)](https://github.com/pras75299/OpenHealthCRM/stargazers)
 - **License:** MIT / Modular
 - **Tech Stack:** TypeScript, Next.js 16, React 19, Prisma 7, PostgreSQL
 - **Healthcare Capabilities:** Modular clinic operations and patient relationship prototype. Features separate patient portal sessions, append-only audit logging, application-layer field encryption, Server-Sent Events (SSE) live vital telemetry streams, and an authenticated FHIR proxy for EHR synchronization.
@@ -219,7 +219,7 @@ Contributions are warmly welcomed! Help keep this repository accurate, comprehen
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b feat/add-new-crm`.
 3. 📝 **Add or update an entry** in `README.md` (adhere to existing tabular format for SaaS or bullet format for open-source).
-4. 🔍 **Verify links and facts**: Ensure pricing, free tier limits, star badges, and official URLs are accurate.
+4. 🔍 **Verify links and facts**: Ensure pricing, free tier limits, Stars_Badges, and official URLs are accurate.
 5. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
 Please review our [contribution guidelines](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for community standards.
